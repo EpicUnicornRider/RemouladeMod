@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "remulade:cucumber"
+        },
+        {
+            "item": "remulade:mayo"
+        }
+    ],
+    "result": {
+    	"item": "remulade:remulade",
+        "count": 1
+    }
+}
